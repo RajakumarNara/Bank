@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BAS">
+</Property><Property Name="Solution File" Value="E:\BAS_Software\BAS\BAS.sln">
+</Property><Property Name="Date" Value="Tuesday, September 27, 2011">
+</Property><Property Name="Time" Value="7:56 AM">
+</Property></Properties><Event ErrorLevel="0" Project="BAS" Source="BAS.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BAS" Source="BAS.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BAS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BAS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BAS" Source="BAS.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BAS_Setup.vdproj" Source="..\BAS_Setup\BAS_Setup.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BAS_Setup.vdproj" Source="..\BAS_Setup\BAS_Setup.vdproj" Description="Converted">
+</Event></UpgradeLog>

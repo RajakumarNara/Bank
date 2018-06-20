@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 1.3
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">1.3</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1">this is my long string</data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        [base64 mime encoded serialized .NET Framework object]
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        [base64 mime encoded string representing a byte array form of the .NET Framework object]
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used forserialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ColumnHeader3.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="ColumnHeader3.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label2.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="Label2.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="ColumnHeader4.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="ColumnHeader4.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Panel1.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="Panel1.SnapToGrid" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="Panel1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Panel1.GridSize" type="System.Drawing.Size, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>8, 8</value>
+  </data>
+  <data name="Panel1.DrawGrid" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="Panel1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="NewButton1.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="NewButton1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="NewButton1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="NewButton1.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        R0lGODlhIwAcAPcAAAAAAP///6KhooSDhGxsb42NkJOTlYqKjKqqrGJiY2VmbVlbX5SWmnl/htvk7qqx
+        uVBcaGFvfW56hsrc7gwNDktQVUBESCstL87W3lNWWVlcX+Lp8ExOUD0+P4SGiPL1+OPm6aqsrqepq/P1
+        9ztyo02Rzk6MxTVbf1mZ1DJRbU18p0h0nFeJtiM2R0ZrjWyfzRwpNYOz4H+u2Xuo0m2TtlNuiFdyimyM
+        qU1jd4212XiYtZnA44eoxqLE5Jy925q51q3O7H2UqavF3tPo/IeQmH6461l6l3ykx5KyzrbP5cbf9czj
+        94mYpcDS4bnK2ai4xcfY58PR3Zqlrt7t+tLg7Nrn8r3I0d3p84GHjMfO1Oju88Tc7szb5uz3/igtMHF4
+        fNrh5VFSUv3//y4wJdXUAPX2AtzbAuXkBMnHBLe1BMbGBby7Ba2sBbSyBtbVCMzMCKinB52dCZqZCcPC
+        DL+9DaSiC7i3DZWWC5uZDI6NDaCeEnh3EdnZJOTkLMC/KLKxKdXVMurqOKinLOHhPc/OOru6Oc7OQ6qp
+        Oh4eHc/LAcG+BK6rCrSxDaCbDYmFDoaEDnh1DZqWLY2LOpeUSJSOA4N9BpSMC5iSE7CoGI2GE4R/Faml
+        RqabGI2GKKWcMJqUO3p1NpCLQ5mMBYJ3Ba+fB6eXDIF1C5SHDYh8D5WIGZSJK7WpOZSQaI59BCIfCmBc
+        P56GAntqBC8pAqaYRYR6PbCjVb+eA8mnCp+IDr6mJcetMjIvH6qJAEc5AMKgDNGvFpF+Ms+2U6icauXW
+        motsAOi1BNesBcmgE5F5JZ6OU7ambEVBMu/lvnVaAP7GGea5Ke3EPPjQToFuLqV6AGFcT46LhGtpZigm
+        JCQjIrm1serm4pGPjY2LiX18e9nY18XEw7y7uv/59JeSjp2ZlpuXlPDs6aulodHOzBUUFE5NTW9ublpZ
+        Wa6trayrq6uqqubm5r+/v7S0tJycnI6OjoqKinV1dXFxcWhoaF1dXTs7Ozk5OTc3NzU1NS0tLSoqKv//
+        /yH5BAEAAP8ALAAAAAAjABwAAAj/AP8JHEiwoEGBymrVEnawocOBwFThgkWJEps0itpg8oTs4UNkuDgV
+        K3ar1CVGbsqUeQOnzimPB5Xx4hTNWTFfl06mPDNHT6Y4nmAWnGWrEzSbOC/ZMVOGpx5NeUgJJUgLVylN
+        vozh1EPnTFM7mjTNsTR1oLRXylalMmUK0qM4bdLIybPGzBpUHud1S6DuQDVgrOK9Gxas1qxJiDcZGhRo
+        0CGGB8NYmAcOXmV48hbsojWM2bCaz3JFEuSHDx9BfyAXRFfPXbd019Ah6qCOnQFszX7pynXLVqlGdRbl
+        2bNoUTKD2OgZyAcjxQoWKk608FIPwb5eoyDtuQOHjRxHbMig/6F0nGA6egLW4eBxZQQILVp82AjD7UEH
+        SbNChZq0qRCgxoUcEhRB9cijwQ1TfAOPGAmE8IE3YBwBwQAMLPPMM7p44ol/fRTiiSSHRDKQP/NYcwIQ
+        YljRQBdSZLFBAiB0oUIG4/BDjDGlWIJHG2qokcYje6zRykAdbAPBDCpSEcUUT1ThgBUOiLADDt0oIMsp
+        juCRhhlntPHIHWisEYtA6thDjhFCcMGEFFVc8UUWVWjhARYT3OCBAcvQQoskfH5yCCB9ACJIefgMME4Q
+        QjQBBRdcWMHBA1SAwUUTTRxhgAHUBAONLqtssgohfQSyimr8ECCODjV08MQSQzxBAQAXVP8QAQQWkGDA
+        ALscU4wtuDxSxxpssNEIQfvgYw4NR0iRhBJLQEEEFkzowAMPOrAggAeuVMKIImHisUceiqRC0D0JZKND
+        D1s84QQVDnQxBRA9/AAvDSEUMAYokfzxRySRlOZHJwWt4843PDwgBQYYOCHEDz/4EIQERzwBDgGgBLPJ
+        xYsFYsgnBiHSzTlIyKBEEDbE8IIMRhgRAwsvZCEANtMUQ4oldahhRiKilFfQPu14M0MJLrBQRAtGvJAC
+        Ci9g8E0GrvACSyujVJLJJ7Q41E868LzjQwkooHACCSiYMAMY59SDTlkEXR2PNhv4MIMMMuRARTnf2IMN
+        2gX5k88A4GgkE87fdBsQBiJ4H4SIPmHcU486+OTTjz+FO5SAPvnok07k/wQEADs=
+</value>
+  </data>
+  <data name="btnIntrestPayable.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="btnIntrestPayable.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="btnIntrestPayable.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="btnIntrestPayable.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        R0lGODlhIwAcAPcAAAAAAP///6KhooSDhGxsb42NkJOTlYqKjKqqrGJiY2VmbVlbX5SWmnl/htvk7qqx
+        uVBcaGFvfW56hsrc7gwNDktQVUBESCstL87W3lNWWVlcX+Lp8ExOUD0+P4SGiPL1+OPm6aqsrqepq/P1
+        9ztyo02Rzk6MxTVbf1mZ1DJRbU18p0h0nFeJtiM2R0ZrjWyfzRwpNYOz4H+u2Xuo0m2TtlNuiFdyimyM
+        qU1jd4212XiYtZnA44eoxqLE5Jy925q51q3O7H2UqavF3tPo/IeQmH6461l6l3ykx5KyzrbP5cbf9czj
+        94mYpcDS4bnK2ai4xcfY58PR3Zqlrt7t+tLg7Nrn8r3I0d3p84GHjMfO1Oju88Tc7szb5uz3/igtMHF4
+        fNrh5VFSUv3//y4wJdXUAPX2AtzbAuXkBMnHBLe1BMbGBby7Ba2sBbSyBtbVCMzMCKinB52dCZqZCcPC
+        DL+9DaSiC7i3DZWWC5uZDI6NDaCeEnh3EdnZJOTkLMC/KLKxKdXVMurqOKinLOHhPc/OOru6Oc7OQ6qp
+        Oh4eHc/LAcG+BK6rCrSxDaCbDYmFDoaEDnh1DZqWLY2LOpeUSJSOA4N9BpSMC5iSE7CoGI2GE4R/Faml
+        RqabGI2GKKWcMJqUO3p1NpCLQ5mMBYJ3Ba+fB6eXDIF1C5SHDYh8D5WIGZSJK7WpOZSQaI59BCIfCmBc
+        P56GAntqBC8pAqaYRYR6PbCjVb+eA8mnCp+IDr6mJcetMjIvH6qJAEc5AMKgDNGvFpF+Ms+2U6icauXW
+        motsAOi1BNesBcmgE5F5JZ6OU7ambEVBMu/lvnVaAP7GGea5Ke3EPPjQToFuLqV6AGFcT46LhGtpZigm
+        JCQjIrm1serm4pGPjY2LiX18e9nY18XEw7y7uv/59JeSjp2ZlpuXlPDs6aulodHOzBUUFE5NTW9ublpZ
+        Wa6trayrq6uqqubm5r+/v7S0tJycnI6OjoqKinV1dXFxcWhoaF1dXTs7Ozk5OTc3NzU1NS0tLSoqKv//
+        /yH5BAEAAP8ALAAAAAAjABwAAAj/AP8JHEiwoEGBymrVEnawocOBwFThgkWJEps0itpg8oTs4UNkuDgV
+        K3ar1CVGbsqUeQOnzimPB5Xx4hTNWTFfl06mPDNHT6Y4nmAWnGWrEzSbOC/ZMVOGpx5NeUgJJUgLVylN
+        vozh1EPnTFM7mjTNsTR1oLRXylalMmUK0qM4bdLIybPGzBpUHud1S6DuQDVgrOK9Gxas1qxJiDcZGhRo
+        0CGGB8NYmAcOXmV48hbsojWM2bCaz3JFEuSHDx9BfyAXRFfPXbd019Ah6qCOnQFszX7pynXLVqlGdRbl
+        2bNoUTKD2OgZyAcjxQoWKk608FIPwb5eoyDtuQOHjRxHbMig/6F0nGA6egLW4eBxZQQILVp82AjD7UEH
+        SbNChZq0qRCgxoUcEhRB9cijwQ1TfAOPGAmE8IE3YBwBwQAMLPPMM7p44ol/fRTiiSSHRDKQP/NYcwIQ
+        YljRQBdSZLFBAiB0oUIG4/BDjDGlWIJHG2qokcYje6zRykAdbAPBDCpSEcUUT1ThgBUOiLADDt0oIMsp
+        juCRhhlntPHIHWisEYtA6thDjhFCcMGEFFVc8UUWVWjhARYT3OCBAcvQQoskfH5yCCB9ACJIefgMME4Q
+        QjQBBRdcWMHBA1SAwUUTTRxhgAHUBAONLqtssgohfQSyimr8ECCODjV08MQSQzxBAQAXVP8QAQQWkGDA
+        ALscU4wtuDxSxxpssNEIQfvgYw4NR0iRhBJLQEEEFkzowAMPOrAggAeuVMKIImHisUceiqRC0D0JZKND
+        D1s84QQVDnQxBRA9/AAvDSEUMAYokfzxRySRlOZHJwWt4843PDwgBQYYOCHEDz/4EIQERzwBDgGgBLPJ
+        xYsFYsgnBiHSzTlIyKBEEDbE8IIMRhgRAwsvZCEANtMUQ4oldahhRiKilFfQPu14M0MJLrBQRAtGvJAC
+        Ci9g8E0GrvACSyujVJLJJ7Q41E868LzjQwkooHACCSiYMAMY59SDTlkEXR2PNhv4MIMMMuRARTnf2IMN
+        2gX5k88A4GgkE87fdBsQBiJ4H4SIPmHcU486+OTTjz+FO5SAPvnok07k/wQEADs=
+</value>
+  </data>
+  <data name="btnExit.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="btnExit.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="btnExit.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="btnExit.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        R0lGODlhEgASAPUAAIoUEgD/AJmZmeQwMcUsLvOFhO9bW+1AQt8mI/eVlPFlaM48PPhUU4sSF+c7O/t2
+        efdyc/ZoZu48PIcVFcwzM/Wdm/GIhe5KSfdpaIsVEeZCOvNfXco+P/WPjYwVF94mKMMxMfiZle9HRPVm
+        aP+Zmf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACUALAAAAAASABIAAAZzwJJwSCwaj8ikcijwGAWZ
+        Y7MCIgomIU4RCnFYCMLrgxFabAERRwEkAEAYDPPTky5QIJeLXEqXKEQiFEttERIHVUpXGw4OBx2IUhMG
+        Aw5oEgmQVpIfAwNXhZhbGRAInGENIw6hVh4QH5oYYE8TTwBLt7hEQQA7
+</value>
+  </data>
+  <data name="btnPost.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="btnPost.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="btnPost.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="btnPost.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        R0lGODlhGQAXAPcAAAAAAP///93hAL7DALu/CMTEAKSlFJWTFNnZJbi2KtPUQsrJScPCS7e2SuXfAePf
+        AdnTAcjDAaijAYKACL66Ea6pJMW6AdbNC7SrH7ClAq+gAsy3A7yqA7CgA8KpBMu1G8SuHryiBLmcBLCS
+        BIt1A6qNBJZ4BK2ONo5iBHdTBIliBlk8BHhTDH5bFIBcFaN4HYZiGIViGYxnHXlVFKR2Io5vNpFZCG9J
+        EGU9BmpBCH5IB39JCHdIEKKAVX5KEHJFEW4+DnpFEGMxA3o/CIdYLnk+CoBADIFDDXxDFamHaXo1An47
+        CX06CXk5CX08CnA1CXc5Cn8+C2o1C4ZJHI9WLJtoQncxAHgzAXAvAnk1BH05CHY0CHs4CXo3CXk3CXc2
+        CXU1CXM0CXEzCXQ2Cn5BFodMIolRK4hTLYtVMJJcN4xaN5lmQqFxTqF0VLGKbrOQd24rAGcnAHUyBmwt
+        BnAwB20uB3UzCG4wCHg0CWkuCHAxCW0wCWwvCWsvCYA7EHQ4EZNmSWsoAGYkAGAjAGIkAmAkAmInBGwr
+        BWwrBmEnBm8sB1skBmgqB3kzCWssCG4uCT8aBW0tCWEoCGcsCWUqCWIpCXo2Dm45Gm49IH5HJ6BvUmQi
+        AFseAFgdAGUkAV0gAWQmBWEkBVchBWYoB2YpCF8mCGcqCVwlCGUtEV8fAF4dAFkdAlwgA1ofBFggBWEi
+        BlUfBVQfBmUlCF4kCFgiCFYhCGgtE1UYAFcaAk8aBU0cB0sbB10hCU4cCGYpEZNyZUwVAEkXBEkYBUoZ
+        B0AVBkwbCEEWB3RPQkMRAD8QAVIYBUYWBjgSBTQRBT0UBloxJDwNADALAUERBC4NBDEPBUIUBz8UBz8T
+        B0QVCEQWCEIVCEcZC0UZDVAlGFQqHlcuIlkwJVoxJl00KWQ+M2lEOmxIPnFNQnNQRnpZUIhrYzoLAC8J
+        ADoNATwOAjwPBCcKAysMBEodETMKAScJAzkJADMMBTcJBv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        ACH5BAEAAPcALAAAAAAZABcAAAj/AO8JHDhwAYMGBBMqXHhgQgEFCyMOfIMJAwEDFC5USCBxYRo0ID68
+        QOKrxgAE9zRV6SiwDSdblhrJwUXkBA1Um1gOJPSJCxMuq0b5UXSLjE6BmVL99MJqjhY6qtYcFRgnihMj
+        Y6AcKeJjqkAWLVzAkBFjxo0cPaYmEfKDB5AgUkTdOeRpqhpBiOwwkhUJVB0uWMrodBOo1RYuplTseAVL
+        0h4rbFiaGRSKS5cQAh6gUNbHS5YpLP8YWkRKhwUNJFK8WtLky5WOvwrFClbqiQcHIoY4+pKHjxYqEo91
+        ghWqCesSETjMolRJjJIzEs0By+UKj40NIzpkiKQHDBM4gCSWaUM2TNikSSYgSMDxKAwYPYkuSRyXzFgv
+        WrrsrYDEqxLzU7mwJA01zTBDjDP1ZFOMLrXsssw2LD0jzzvwWJONNthcAw8107BDjk7euNNONdJAQ486
+        0cyzTjdTmSNOPOCckw464XDzzUIBAQA7
+</value>
+  </data>
+  <data name="txtRoi.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="txtRoi.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtRoi.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="NumericControl1.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="NumericControl1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="NumericControl1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="ColumnHeader1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="ColumnHeader1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="lvInterest.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="lvInterest.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="lvInterest.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label6.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="Label6.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label6.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="dtpPostDate.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="dtpPostDate.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="dtpPostDate.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="CheckBox1.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="CheckBox1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="CheckBox1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label1.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="Label1.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="Label1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtNarration.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="txtNarration.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="txtNarration.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="$this.Locked" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>(Default)</value>
+  </data>
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.Localizable" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.GridSize" type="System.Drawing.Size, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>8, 8</value>
+  </data>
+  <data name="$this.DrawGrid" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="$this.TrayHeight" type="System.Int32, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>80</value>
+  </data>
+  <data name="$this.SnapToGrid" type="System.Boolean, mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="$this.Name">
+    <value>frmCAinterestPosting</value>
+  </data>
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+</root>

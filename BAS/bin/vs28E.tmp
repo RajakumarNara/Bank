@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BAS
+</name>
+</assembly>
+<members>
+<member name="P:BAS.clsVehicleLoan.BorrowedLoanType1">
+This propertyes is used in Previous Version
+
+</member>
+</members>
+</doc>
